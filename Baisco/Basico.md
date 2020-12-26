@@ -1,4 +1,4 @@
-# Nesta Secção iremos aborda a parte trivial do github
+# Nesta Secção iremos aborda comandos trivial do github
 
 
 ### 1- Registrar dados
