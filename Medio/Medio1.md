@@ -10,13 +10,15 @@
   * 1.4 Visualização grafica das branch
       `git log --graph`
 
-### 2- Restaurar Commit
+### 2- Restaurar e reverter Commit 
   * 2.1 Restaurar
       `git reset "tipo da restauração" "Hash do commit"`
-   * 2.2 Tipos de Restauração
+  * 2.2 Tipos de Restauração
         - 2.2.1  soft (retorna sem commitar)
         - 2.2.2  mixed (retorna sem adicionar)
         - 2.2.3  hard (retorna tudo)
+  * 2.3 Reverter commit
+        `git revert 'id commit'`
 
 ### 3- Merge X Rebase
 
