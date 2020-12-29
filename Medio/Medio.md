@@ -27,6 +27,11 @@
 
   * 3.3 Rebase 
       - `git rebase "nome da branch"`
-      
+
+  * 3.5 Representação
+  <div align='center'><img src="https://raw.githubusercontent.com/francisco1code/Manual-git/master/images/merge_x_rebase.png"width="400" height="300"</div>
+
+
+    
 
 
